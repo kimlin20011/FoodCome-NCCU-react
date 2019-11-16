@@ -171,7 +171,7 @@ header {
     padding: 10px 20px;
     text-transform: uppercase;
     transition: background 0.3s ease-in-out 0s;
-    background-color:#a31621;
+    background-color:#f9a70d;
 }
 .navbar-default {
     background: rgba(63, 55, 53, 0.9) none repeat scroll 0 0;
@@ -192,15 +192,15 @@ header {
     color: #222222;
 }
 .navbar-default .navbar-brand {
-    color: #a31621;
+    color: #f9a70d;
 }
 .navbar-default .navbar-brand:hover
 {
-    color: #a31621;
+    color: #f9a70d;
 }
 .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
     background-color: transparent;
-    color: #a31621;
+    color: #f9a70d;
 }
 .navbar-brand {
     font-size: 22px;
@@ -289,15 +289,15 @@ header {
     border:1px solid #ffffff;
 }
 #banner .btn.btn-book:hover {
-    background-color: #a31621;
-    border-color: #a31621;
+    background-color: #f9a70d;
+    border-color: #f9a70d;
     color: #ffffff;
 }
 /*Banner Section CSS Ends Here...*/
 
 /*Special Section CSS*/
 .tv-special-color{
-    background-color:#a31621; 
+    background-color:#f9a70d; 
 }
 .tv-special-info {
     display: table;
@@ -326,11 +326,11 @@ header {
 
 /*About Section CSS*/
 .tv-about-img {
-    /*border: 2px solid #a31621;*/
+    /*border: 2px solid #f9a70d;*/
     position: relative;
 }
 .tv-about-img::after {
-    border: 2px solid #a31621;
+    border: 2px solid #f9a70d;
     content: "";
     height: 100%;
     left: 5%;
@@ -352,7 +352,7 @@ header {
     letter-spacing: 1px;
 }
 .tv-section-title > h2 {
-    border-bottom: 3px solid #a31621;
+    border-bottom: 3px solid #f9a70d;
     display: inline-block;
     font-size:30px;
     font-weight: 700;
@@ -368,7 +368,7 @@ header {
     bottom:2px; 
     width:100%; 
     height:1px;                          
-    background:#a31621;
+    background:#f9a70d;
 }
 .tv-box-inner-head 
 {
@@ -376,7 +376,7 @@ header {
 }
 .tv-box-inner-head > h2
 {
-    border-bottom: 3px solid #a31621;
+    border-bottom: 3px solid #f9a70d;
     display: inline-block;
     font-size:1.5em;
     font-weight: 700;
@@ -392,13 +392,13 @@ header {
     bottom:2px; 
     width:100%; 
     height:1px;                          
-    background:#a31621;
+    background:#f9a70d;
 }
 .tv-about-info > span {
     font-weight: 700;
 }
 .tv-about-info > h2 {
-    border-bottom: 3px solid #a31621;
+    border-bottom: 3px solid #f9a70d;
     display: inline-block;
     font-family: open_sansbold;
     font-size: 35px;
@@ -414,7 +414,7 @@ header {
     bottom:5px; 
     width:100%; 
     height:1px;                          
-    background:#a31621;
+    background:#f9a70d;
 }
 .tv-about-info > p {
     font-size: 17px;
@@ -441,8 +441,8 @@ header {
     transition: background 0.3s ease-in-out 0s;
 }
 #about .btn.btn-find:hover {
-    background-color: #a31621;
-    border-color: #a31621;
+    background-color: #f9a70d;
+    border-color: #f9a70d;
     color: #ffffff;
 }
 /*About Section CSS Ends Here...*/
@@ -503,15 +503,15 @@ header {
     transition: background 0.3s ease-in-out 0s;
 }
 #services .btn.btn-find:hover {
-    background-color: #a31621;
-    border-color: #a31621;
+    background-color: #f9a70d;
+    border-color: #f9a70d;
     color: #ffffff;
 }
 /*Services Section CSS Ends Here...*/
 
 /*Menu Section CSS...*/
 .tv-menu-feautre > h4 {
-    color: #a31621;
+    color: #f9a70d;
     font-size: 20px;
     font-weight: 700;
     margin-bottom: 40px;
@@ -535,7 +535,7 @@ header {
     width: 80%;
 }
 .tv-menu-img {
-    border: 1px solid #a31621;
+    border: 1px solid #f9a70d;
     border-radius: 8px;
 }
 .tv-menu-block {
@@ -567,8 +567,8 @@ header {
     transition: background 0.3s ease-in-out 0s;
 }
 #menu .btn.btn-view:hover {
-    background-color: #a31621;
-    border-color: #a31621;
+    background-color: #f9a70d;
+    border-color: #f9a70d;
     color: #ffffff;
 }
 .tv-view-button {
@@ -598,7 +598,7 @@ header {
     letter-spacing: 1px;
 }
 .tv-bg-section-title > h2::before {
-    background: #a31621 none repeat scroll 0 0;
+    background: #f9a70d none repeat scroll 0 0;
     bottom: 2px;
     color: #000000;
     content: "";
@@ -612,7 +612,7 @@ header {
     margin-bottom: 40px;
 }
 .tv-bg-section-title > h2 {
-    border-bottom: 3px solid #a31621;
+    border-bottom: 3px solid #f9a70d;
     color:#ffffff;
     display: inline-block;
     font-size: 2.5em;
@@ -641,7 +641,7 @@ header {
     padding: 10px 20px;
     text-transform: uppercase;
     transition: background 0.3s ease-in-out 0s;
-    background:#a31621;
+    background:#f9a70d;
 }
 #open .btn.btn-book:hover {
     background-color: transparent;
@@ -698,8 +698,8 @@ header {
     border:1px solid #000000;
 }
 #dishes .btn.btn-item:hover {
-    background-color: #a31621;
-    border-color: #a31621;
+    background-color: #f9a70d;
+    border-color: #f9a70d;
     color: #ffffff;
 }
 .tv-allitems-button {
@@ -727,14 +727,14 @@ header {
     width: 70%;
 }
 .tv-discount-title span {
-    color: #a31621;
+    color: #f9a70d;
     font-size: 45px;
 }
 /*Discount Section CSS Ends Here...*/
 
 /*Reservation Section CSS*/
 #reservation .form-control:focus {
-    border-bottom-color:#a31621;
+    border-bottom-color:#f9a70d;
     box-shadow: 0 0px 0px rgba(0, 0, 0, 0.00) inset, 0 0 0px rgba(0,0,0,0);
     outline: 0 none;
 }
@@ -797,8 +797,8 @@ header {
     border:1px solid #000000;
 }
 #reservation .btn.btn-reservation:hover {
-    background-color: #a31621;
-    border-color: #a31621;
+    background-color: #f9a70d;
+    border-color: #f9a70d;
     color: #ffffff;
 }
 .tv-reservation-button
@@ -883,8 +883,8 @@ header {
     width: 22px;
 }
 #staff .tv-social-navbar > a > span:hover {
-    background: #a31621 none repeat scroll 0 0;
-    border-color: #a31621;
+    background: #f9a70d none repeat scroll 0 0;
+    border-color: #f9a70d;
     color: #ffffff;
 }
 .tv-staff-info {
@@ -1065,14 +1065,14 @@ header {
     width: 80%;
 }
 .testimonial-slider > i {
-    color: #a31621;
+    color: #f9a70d;
     font-size: 30px;
     margin-bottom: 40px;
     margin-top: 40px;
 }
 #myCarousel .carousel-indicators li {
-    background-color: #a31621;
-    border: 1px solid #a31621;
+    background-color: #f9a70d;
+    border: 1px solid #f9a70d;
     border-radius: 10px;
     cursor: pointer;
     display: inline-block;
@@ -1205,7 +1205,7 @@ header {
     text-transform: uppercase;
     top: 50%;
     transform: translateY(-50%);
-    background: #a31621;
+    background: #f9a70d;
 }
 #newsletter .form-control::placeholder {
     color: #999;
@@ -1228,7 +1228,7 @@ header {
 
 /*Footer Section CSS*/
 .tv-footer-title > h3 {
-    border-bottom: 3px solid #a31621;
+    border-bottom: 3px solid #f9a70d;
     display: inline-block;
     font-size: 1.5em;
     font-weight: 600;
@@ -1243,7 +1243,7 @@ header {
     margin-bottom: 20px;
 }
 .tv-footer-title > h3::before {
-    background: #a31621 none repeat scroll 0 0;
+    background: #f9a70d none repeat scroll 0 0;
     bottom: 2px;
     content: "";
     display: block;
@@ -1266,15 +1266,15 @@ header {
     text-align: center;
 }
 #foodfooter .tv-social-navbar > a > span:hover {
-    background: #a31621 none repeat scroll 0 0;
-    border-color: #a31621;
+    background: #f9a70d none repeat scroll 0 0;
+    border-color: #f9a70d;
     color: #ffffff;
 }
 .tv-footer-info{
     margin-top: 20px;
 }
 #foodfooter ul {
-    color: #a31621;
+    color: #f9a70d;
 }
 .footer-menu > li {
     color: #000000;
@@ -1297,7 +1297,7 @@ header {
     text-transform: uppercase;
 }
 .footer-menu > li > a:hover {
-    color: #a31621;
+    color: #f9a70d;
     text-decoration: none;
 }
 /*Footer Section CSS Ends Here...*/
@@ -1316,7 +1316,7 @@ header {
     font-weight: 600;
 }
 .tv-backlink-info a {
-    color: #a31621;
+    color: #f9a70d;
 }
 /*Backlink Section CSS Ends Here...*/
 
@@ -1339,7 +1339,7 @@ header {
     position: relative;
 }
 #back-to-top {
-    background-color: #a31621;
+    background-color: #f9a70d;
     bottom: 50px;
     color: #fff;
     cursor: pointer;
@@ -1390,7 +1390,7 @@ header {
     right: 0;
     -webkit-transition: all 0.35s ease;
     transition: all 0.35s ease;
-    background-color: #a31621;
+    background-color: #f9a70d;
     content: '';
     opacity: 0.4;
     z-index: 1;
@@ -1445,7 +1445,7 @@ header {
     transition: all 0.5s ease-in-out;
 }
 .view-fifth .mask {
-    background-color: #a31621;
+    background-color: #f9a70d;
     transform: translateX(-600px);
     filter: alpha(opacity=80);
     opacity: 0.8;
@@ -1520,7 +1520,7 @@ header {
     box-shadow:inset 0 0 6px rgba(0,0,0,.4);
 }
 .colors-switcher .colors-list a.tamarillo {
-    background-color:#a31621;
+    background-color:#f9a70d;
 }
 .colors-switcher .colors-list a.pomegranate{
     background-color:#eb4511;
@@ -1545,7 +1545,7 @@ header {
     color: #ffffff !important;
 }
 .dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {
-    background-color: #a31621;
+    background-color: #f9a70d;
     color: #ffffff !important;
     text-decoration: none;
 }
@@ -1559,7 +1559,7 @@ header {
 }
 .tv-sub-menu {
     background:#222222;
-    border-top: 3px solid #a31621;
+    border-top: 3px solid #f9a70d;
     box-shadow: none;
     min-width: 200px;
     padding: 0;
